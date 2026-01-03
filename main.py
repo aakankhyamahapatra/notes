@@ -18,3 +18,5 @@
 # It is open source written in C 
 # Includes the standard library
 # A collection of additional functionality that goes beyond just the python language}
+
+# 7. Virtual Environment :- It is basically a copy of python with any additional libraries you need that you use to run a specific python project. 
