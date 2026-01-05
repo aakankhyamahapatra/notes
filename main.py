@@ -20,3 +20,9 @@
 # A collection of additional functionality that goes beyond just the python language}
 
 # 7. Virtual Environment :- It is basically a copy of python with any additional libraries you need that you use to run a specific python project. 
+# 8. Installing packages with pip :- 
+        #    Activate the virtual environment first (It Sets your path)
+        #    Pip install package_name (You can look at the pi pi, write the python index or look at the documentation for the library or package you want to install & it will tell you its package name. You can have specific different versions too.)
+        #    Versions like - pip install package_name==1.3.2
+        #                  - pip install package_name<=1.2
+        #                  - pip install package_name>2.0
