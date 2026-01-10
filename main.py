@@ -26,3 +26,13 @@
         #    Versions like - pip install package_name==1.3.2
         #                  - pip install package_name<=1.2
         #                  - pip install package_name>2.0
+# Basic data types
+
+# 10. Variables :- Variable is like a container that holds data. overtime, object symbol references can change.
+#  a = 100 (here a is referencing the object 100)
+#  a = true (here a is referencing the object true)
+#  11. How Variable Assignment Happens ?
+#.a = 0.728
+# Here a isLHS and 0.728 is RHS
+# 
+
